@@ -5,9 +5,13 @@ The Personal Finance Tracker is a web-based application designed to help users m
 
 Features
 a) Add Transactions**: Input income and expense transactions easily.
+
 b )Data Visualization- View your financial data in pie or bar charts to understand your income and spending patterns.
+
 c) Transaction List- Keep track of all transactions with the ability to delete entries.
+
 d) Summary Overview- Display total income, total expenses, and current balance.
+
 e) Local Storage- Automatically save transactions in your browser's local storage.
 
 Technologies Used
