@@ -1,6 +1,5 @@
 Personal Finance Tracker
 
-Description
 The Personal Finance Tracker is a web-based application designed to help users manage their finances efficiently. With features to track income and expenses, users can gain insights into their spending habits, set financial goals, and achieve better financial health.
 
 Features
