@@ -32,6 +32,3 @@ git clone https://github.com/yourusername/personal-finance-tracker.git
 cd personal-finance-tracker
 
 3. Open the index.html file in your web browser.
-
-3. Open index.html in your web browser.
-
