@@ -21,18 +21,17 @@ Technologies Used
 - Chart.js (for data visualization)
 - Local Storage API
 
-Installation
-To run this project locally, follow these steps:
+Installation To run this project locally, follow these steps:
 
 1. Clone the repository:
-```bash
- git clone https://github.com/yourusername/personal-finance-tracker.git
- 
+
+git clone https://github.com/yourusername/personal-finance-tracker.git
+
 2. Navigate to the project directory:
 
-bash
-
 cd personal-finance-tracker
+
+3. Open the index.html file in your web browser.
 
 3. Open index.html in your web browser.
 
